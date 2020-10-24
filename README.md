@@ -1,2 +1,2 @@
 # My-certificates
-JS and React Marathon certificates
+Просмотреть: https://sunr1sen.github.io/My-certificates/index.html
