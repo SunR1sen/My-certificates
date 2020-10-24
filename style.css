@@ -34,6 +34,7 @@ body {
 .image_link {
 	display: flex;
 	justify-content: center;
+	align-items: flex-start;
 }
 
 .certificate {
